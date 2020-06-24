@@ -1,0 +1,24 @@
+2020-06-18T12:35:38.565+0545 INFO Starting DemoApplication on DESKTOP-THD9FAS with PID 15240 (C:\Users\santosh\Desktop\sensitive-logging-demo\demo\target\classes started by santosh in C:\Users\santosh\Desktop\sensitive-logging-demo\demo)
+2020-06-18T12:35:38.567+0545 DEBUG Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-18T12:35:38.568+0545 INFO No active profile set, falling back to default profiles: default
+2020-06-18T12:35:40.068+0545 INFO Started DemoApplication in 1.8 seconds (JVM running for 2.509)
+2020-06-18T12:35:40.070+0545 INFO this is my info message
+2020-06-18T12:35:40.070+0545 INFO This is debug message mnzitshakya@gmail.com
+2020-06-18T12:35:40.071+0545 INFO Passed to server::0084USER:17603,IP:0:0:0:0:0:0:0:1,3425,Credit Card 1:XXXX XXXX XXXX XXXX,3425,Credit Card2:XXXX XXXX XXXX XXXX , CVV:234,SSN:123456789
+2020-06-18T12:35:40.072+0545 INFO {"ssn": "XXXX XXXX XXXX XXXX"}
+2020-06-18T12:36:14.791+0545 INFO Starting DemoApplication on DESKTOP-THD9FAS with PID 13168 (C:\Users\santosh\Desktop\sensitive-logging-demo\demo\target\classes started by santosh in C:\Users\santosh\Desktop\sensitive-logging-demo\demo)
+2020-06-18T12:36:14.793+0545 DEBUG Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-18T12:36:14.794+0545 INFO No active profile set, falling back to default profiles: default
+2020-06-18T12:36:16.212+0545 INFO Started DemoApplication in 1.722 seconds (JVM running for 2.484)
+2020-06-18T12:36:16.214+0545 INFO this is my info message
+2020-06-18T12:36:16.214+0545 INFO This is debug message mnzitshakya@gmail.com
+2020-06-18T12:36:16.215+0545 INFO Passed to server::0084USER:17603,IP:0:0:0:0:0:0:0:1,3425,Credit Card 1:XXXX XXXX XXXX XXXX,3425,Credit Card2:XXXX XXXX XXXX XXXX , CVV:234,SSN:123456789
+2020-06-18T12:36:16.216+0545 INFO {"ssn": "XXXX XXXX XXXX XXXX"}
+2020-06-18T12:45:18.297+0545 INFO Starting DemoApplication on DESKTOP-THD9FAS with PID 17804 (C:\Users\santosh\Desktop\sensitive-logging-demo\demo\target\classes started by santosh in C:\Users\santosh\Desktop\sensitive-logging-demo\demo)
+2020-06-18T12:45:18.300+0545 DEBUG Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-18T12:45:18.300+0545 INFO No active profile set, falling back to default profiles: default
+2020-06-18T12:45:19.932+0545 INFO Started DemoApplication in 1.965 seconds (JVM running for 2.761)
+2020-06-18T12:45:19.934+0545 INFO this is my info message
+2020-06-18T12:45:19.934+0545 INFO This is debug message mnzitshakya@gmail.com
+2020-06-18T12:45:19.945+0545 INFO customer detail : com.f1soft.spring.logging.demo.dto.CustomerDetail@46d9aec8[cardNo=XXXX XXXX XXXX XXXX,password=1234,username=XXXX XXXX XXXX XXXX]
+2020-06-18T12:45:19.977+0545 INFO data : {"username":"XXXX XXXX XXXX XXXX","password":"1234","cardNo":"XXXX XXXX XXXX XXXX"}
